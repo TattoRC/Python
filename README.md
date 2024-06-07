@@ -24,7 +24,7 @@
 
 📁 Acesso ao projeto:
 
-O projeto pode ser baixado nesse diretorio do github: 
+O projeto pode ser baixado nesse diretorio do github: https://github.com/TattoRC/Python
 
 🛠️ Abrir e rodar o projeto:
 
